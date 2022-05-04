@@ -52,30 +52,30 @@
 }
 
 .icon_hp{
-    background-image: url('./heart.png');
+    background-image: url('../assets/heart.png');
 
 }
 .icon_attack{
-    background-image: url('./swords.png');
+    background-image: url('../assets/swords.png');
 }
 
 .icon_defense{
-    background-image: url('./shield.png');
+    background-image: url('../assets/shield.png');
 }
 
 .icon_special-attack{
-    background-image: url('./swords\ \(1\).png');
+    background-image: url('../assets/swords\ \(1\).png');
     left: -34px;
 }
 
 .icon_special-defense{
-    background-image: url('./protection.png');
+    background-image: url('../assets/protection.png');
     left: -32px;
     top: 6px;
 
 }
 .icon_speed{
-    background-image: url('./run.png');
+    background-image: url('../assets/run.png');
     left: -36px;
 }
 
